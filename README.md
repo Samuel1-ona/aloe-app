@@ -85,3 +85,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+# Discord 
+samueltheanalysts1_78792
